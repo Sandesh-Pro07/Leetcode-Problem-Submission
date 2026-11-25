@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandesh-Pro07/Leetcode-Problem-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [2469-convert-the-temperature](https://github.com/Sandesh-Pro07/Leetcode-Problem-Submission/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
